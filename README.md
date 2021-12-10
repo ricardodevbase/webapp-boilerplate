@@ -1,4 +1,4 @@
-# jobsity-demo
+# Devbase
 
 
 This is demo  app used to showcase [Cypress.io](https://www.cypress.io/) testing. this app run the following test cases on this page http://automationpractice.com/index.php
