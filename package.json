@@ -1,0 +1,19 @@
+{
+  "name": "jobsity-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "runHeadless": "./node_modules/.bin/cypress run --browser chrome --headless",
+    "cy:run": "cypress run"
+  },
+  "author": "Ricardo Casco",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.1",
+    "cypress": "^8.4.0",
+    "cypress-file-upload": "^3.5.3"
+  }
+}
