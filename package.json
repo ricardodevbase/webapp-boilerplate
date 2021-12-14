@@ -13,6 +13,7 @@
   "devDependencies": {
     "@testing-library/cypress": "^8.0.1",
     "cypress": "^8.4.0",
-    "cypress-file-upload": "^3.5.3"
+    "cypress-file-upload": "^3.5.3",
+    "cypress-mochawesome-reporter": "^2.3.0"
   }
 }
