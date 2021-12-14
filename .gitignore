@@ -4,3 +4,4 @@ cypress/screenshots
 cypress/snapshots
 cypress/videos
 cypress.env.json
+cypress.reports
